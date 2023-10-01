@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tpwk2h" target="blank"><img src="https://img.shields.io/twitter/follow/tpwk2h?logo=twitter&style=for-the-badge" alt="tpwk2h" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node JS**
 
 - 💬 Ask me about **web development**
 
